@@ -1,0 +1,1 @@
+Egyszerû blog fejléc megoldása
