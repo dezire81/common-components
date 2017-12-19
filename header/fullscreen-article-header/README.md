@@ -1,0 +1,1 @@
+Fejléc teljes képernyõs cikkhez megoldása
