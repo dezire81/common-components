@@ -1,0 +1,1 @@
+Egyszerû felsõ navigáció megoldása
